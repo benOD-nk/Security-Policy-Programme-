@@ -1,2 +1,9 @@
 # Security-Policy-Programme-
-A practical GRC portfolio project demonstrating the design, implementation, governance, and audit readiness of am enterprise security policy programme aligning with ISO/IEC 27001 and NIST CSF.
+This repository contains the security policy programme for Gallery Holdings.
+It includes policies, supporting standards, a policy register, review cycle documentation,
+and audit-readiness artefacts.
+
+Maintained by: Benaiah Odamtten
+
+Framework alignment: ISO 27001, CIS Controls v8
+
