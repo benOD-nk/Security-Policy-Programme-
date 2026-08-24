@@ -1,0 +1,30 @@
+Gallary Holdings 
+Access Control Policy 
+
+# Gallery Holdings
+
+## Access Control Policy
+
+| Field                   | Detail                                                                                                                                                                                  |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Policy ID**           | POL-001                                                                                                                                                                                 |
+| **Version**             | 1.0                                                                                                                                                                                     |
+| **Status**              | Draft                                                                                                                                                                                   |
+| **Policy Owner**        | Information Security Team                                                                                                                                                               |
+| **Business Owner**      | Information Security / IT Management                                                                                                                                                    |
+| **Approved By**         | CISO / Executive Management — Pending                                                                                                                                                   |
+| **Effective Date**      | Upon approval                                                                                                                                                                           |
+| **Review Date**         | August 24, 2027                                                                                                                                                                         |
+| **Review Frequency**    | At least annually or following significant organizational, technological, regulatory, or security changes                                                                               |
+| **Classification**      | Internal                                                                                                                                                                                |
+| **Policy Category**     | Information Security / Access Control                                                                                                                                                   |
+| **Applies To**          | All Gallery Holdings employees, contractors, consultants, temporary workers, third parties, information systems, applications, networks, and information assets within the policy scope |
+| **Related Framework**   | ISO/IEC 27001:2022                                                                                                                                                                      |
+| **Supersedes**          | New Policy                                                                                                                                                                              |
+| **Exception Authority** | CISO / Designated Information Security Authority — Pending                                                                                                                              |
+
+### Document Control
+
+This policy establishes the requirements for granting, modifying, reviewing, monitoring, and revoking access to Gallery Holdings' information assets and technology resources.
+
+The policy is maintained by the Information Security Team and is subject to formal review at least annually or when significant changes occur to the organization's business operations, technology environment, regulatory obligations, or information security risks.
