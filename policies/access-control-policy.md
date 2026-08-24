@@ -11,16 +11,20 @@
 | **Approved By** | CISO / Executive Management — Pending |
 | **Review Date** | August 24, 2026 |
 | **Classification** | Internal |
-1. Purpose 
-   This policy defines the requirements for managing access to Gallery Corp information systems,
-   data, and facilities. It ensures that access is granted on the basis of business need and
-   the principle of least privilege.
 
-2. Scope 
-   This policy applies to all employees, contractors, and third parties who access Gallary Corp
-   systems or data.
+## 1. Purpose
 
-3. Policy Statements
+This policy defines the requirements for managing access to Acme Corp information systems,
+data, and facilities. It ensures that access is granted on the basis of business need and
+the principle of least privilege.
+
+## 2. Scope
+
+This policy applies to all employees, contractors, and third parties who access Acme Corp
+systems or data.
+
+## 3. Policy Statements
+
 3.1 Access to systems and data must be granted based on the principle of least privilege.
 
 3.2 All user accounts must be uniquely identifiable. Shared accounts are prohibited
@@ -34,6 +38,7 @@
 
 3.5 Privileged access (administrator or root-level) must be separately provisioned
     and must not be used for day-to-day activities.
+
 
 ## Roles and Responsibilities
 
@@ -51,7 +56,8 @@
 - **PROC-001:** Joiner, Mover, Leaver Procedure
 - **POL-002:** Acceptable Use Policy *(Planned)*
 
-6. Compliance and Exceptions
+## 6. Compliance and Exceptions
+
    Non-compliance with this policy may result in disciplinary action. Exceptions must be
    submitted to the Information Security team and approved in writing.
 
