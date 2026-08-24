@@ -1,9 +1,8 @@
 # Gallery Corp
 ## Policy Register
 
-| Policy ID | Title | Version | Status | Owner | Classification | Framework Ref | Last Reviewed | Next Review | Approved By |
-|---|---|---:|---|---|---|---|---|---|---|
-| **POL-001** | Access Control Policy | 1.0 | Draft | InfoSec Team | Internal | ISO 27001 A.9, CIS Control 6 | August 24, 2026 | August 24, 2027 | Pending |
-| **POL-002** | Acceptable Use Policy | 0.1 | Planned | InfoSec Team | Internal | ISO 27001 A.8, CIS Control 2 | — | — | TBD |
-| **POL-003** | Incident Response Policy | 0.1 | Planned | InfoSec Team | Internal | ISO 27001 A.16, CIS Control 17 | — | — | TBD |
-| **POL-004** | Information Classification Policy | 0.1 | Planned | InfoSec Team | Internal | ISO 27001 A.8.2 | — | — | TBD |
+Policy ID,Title,Version,Status,Owner,Classification,Framework Ref,Last Reviewed,Next Review,Approved By
+POL-001,Access Control Policy,1.0,Draft,InfoSec Team,Internal,"ISO 27001 A.9, CIS Control 6",August 24, 2025 to August 24, 2026.
+POL-002,Acceptable Use Policy,0.1,Planned,InfoSec Team,Internal,"ISO 27001 A.8, CIS Control 2",,,[TBD]
+POL-003,Incident Response Policy,0.1,Planned,InfoSec Team,Internal,"ISO 27001 A.16, CIS Control 17",,,[TBD]
+POL-004,Information Classification Policy,0.1,Planned,InfoSec Team,Internal,"ISO 27001 A.8.2",,,[TBD]
