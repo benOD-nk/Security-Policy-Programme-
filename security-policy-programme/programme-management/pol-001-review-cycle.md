@@ -5,7 +5,7 @@
 | **Policy** | POL-001 Access Control Policy v1.0 |
 | **Review Round** | 1 |
 | **Initiated By** | InfoSec Team |
-| **Review Period** | [Start Date] to [Start Date + 2 weeks] |
+| **Review Period** | August 24, 2026 to September 7, 2026 |
 | **Status** | In Review |
 
 ---
@@ -14,10 +14,10 @@
 
 | Reviewer | Team | Status | Comments Due | Signed Off |
 |---|---|---|---|---|
-| [Name/Role] | IT Ops | Pending | [Date] | No |
-| [Name/Role] | HR | Pending | [Date] | No |
-| [Name/Role] | Legal | Pending | [Date] | No |
-| [Name/Role] | Risk Team | Pending | [Date] | No |
+| IT Operations Manager | IT Ops | Pending | August 28, 2026 | No |
+| HR Manager | HR | Pending | August 28, 2026 | No |
+| Legal Counsel | Legal | Pending | September 1, 2026 | No |
+| Risk Manager | Risk Team | Pending | September 1, 2026 | No |
 
 ---
 
@@ -25,9 +25,9 @@
 
 | ID | Reviewer | Section | Comment | Resolution | Status |
 |---|---|---|---|---|---|
-| **C001** | IT Ops | 3.5 | "Separate admin accounts will require a PAM tool we don't have. Can we phase this in?" | InfoSec to note as a gap. Exception process agreed. Timeline: 6 months. | Resolved |
-| **C002** | HR | 4.0 | "24-hour notification SLA for leavers is tight. Can we make it 1 business day?" | Policy updated to **within 1 business day**. Standard 5.1 adjusted accordingly. | Resolved |
-| **C003** | Legal | 6.0 | "Disciplinary wording should reference the Employee Handbook." | Added reference to Employee Handbook Section 4. | Resolved |
+| **C001** | IT Operations Manager | 3.5 | Separate administrative accounts will require a PAM tool that is not currently available. Can this requirement be phased in? | InfoSec documented the PAM capability as a security gap. An exception process was agreed, with a target implementation timeline of 6 months. | Resolved |
+| **C002** | HR Manager | 4.0 | The 24-hour notification requirement for leavers may be difficult to meet in all circumstances. Can this be changed to 1 business day? | Policy updated to require notification **within 1 business day**. Standard 5.1 was updated accordingly. | Resolved |
+| **C003** | Legal Counsel | 6.0 | Disciplinary wording should reference the Employee Handbook. | Added a reference to Employee Handbook Section 4. | Resolved |
 
 ---
 
@@ -35,4 +35,33 @@
 
 | Role | Name | Date | Decision |
 |---|---|---|---|
-| **CISO** | [Name] | [Date] | Pending |
+| **CISO** | [Name TBD] | [Approval Date] | Pending |
+
+---
+
+## Review Outcome
+
+| Field | Detail |
+|---|---|
+| **Review Result** | Pending Final Approval |
+| **Comments Received** | 3 |
+| **Comments Resolved** | 3 |
+| **Outstanding Comments** | None |
+| **Policy Changes Required** | Yes |
+| **Next Action** | Obtain CISO/Executive Management approval |
+| **Target Approval Date** | September 7, 2026 |
+| **Next Review Date** | September 7, 2027 |
+
+---
+
+## Review Evidence
+
+The following evidence should be retained to demonstrate completion of the policy review:
+
+- Policy version reviewed: **POL-001 v1.0**
+- Reviewer comments and resolutions
+- Reviewer sign-off records
+- Documented exception for PAM implementation
+- Updated Access Control Standard
+- Employee Handbook reference
+- Final approval record
